@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 Engenheiro de Software - Universidade Federal do Amazonas<br>✨ Plataforma .NET e .NET Core.<br>🎯 Conhecimentos em Modelagem de Banco de Dados Relacionais<br>🔖 aplicacao de arquitetura de software baseada em frameworks e Design Patterns<br>💙 Mysql</p>
+<p align="left">📚 Engenheiro de Software - Universidade Federal do Amazonas<br>📍 Lógica de Programação Avançada e Design Patterns<br>✨ Plataforma .NET e .NET Core.<br>🎯 Conhecimentos em Modelagem de Banco de Dados Relacionais<br>🔖 aplicacao de arquitetura de software baseada em frameworks e Design Patterns<br>✔️ Experiência com CI/CD para automatização de builds e deploys.<br>💙 Mysql</p>
 
 ###
 
@@ -64,9 +64,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ErnandsonXavier/ErnandsonXavier/output/snake.svg" alt="Snake animation" />
 
 ###

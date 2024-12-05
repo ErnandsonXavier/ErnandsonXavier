@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Olá, sou um desenvolvedor .NET e este é o meu perfil do GitHub! Aqui você encontrará meus projetos e meus trabalhos mais recentes.</p>
+
 
 ###
 

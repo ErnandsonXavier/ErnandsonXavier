@@ -1,7 +1,7 @@
 <h3 align="left">👋Bem-vindo ao meu perfil do GitHub!</h3>
 
 ###
-
+<p align="left">Olá, sou um desenvolvedor .NET e este é o meu perfil do GitHub! Aqui você encontrará meus projetos e meus trabalhos mais recentes.</p>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErnandsonXavier&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
